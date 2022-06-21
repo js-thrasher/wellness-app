@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "219618878193",
+    "project_id": "wellness-app-9e722",
+    "storage_bucket": "wellness-app-9e722.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219618878193:android:8d300aba9253fe7b483f50",
+        "android_client_info": {
+          "package_name": "edu.wit.mobileapp.wellness_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219618878193-9j7atvqbfernv8050771lf5hjc0ju6mr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY42RG6Ji7RlPKBKPKvc-TU0PqDemvqWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219618878193-9j7atvqbfernv8050771lf5hjc0ju6mr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

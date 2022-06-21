@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Wellness App</string>
+    <string name="title_home">Meditation</string>
+    <string name="title_dashboard">Counselor Bio</string>
+    <string name="title_notifications">Schedule</string>
+    <string name="title_profile">Profile</string>
+    <string name="back_button">Back</string>
+    <string name="confirm_button">Confirm</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="register_btn">Register!</string>
+    <string name="login_btn">Login</string>
+    <string name="counselor_name">Mr. X or Mrs.Y</string>
+
+</resources>
